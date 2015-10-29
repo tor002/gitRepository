@@ -1,4 +1,4 @@
-/**DOKANF*************************************************************************************
+/**DOKANF************************************************************************************
  *
  *  Elementname:     MyJavaFxErstes.java
  *  Elementtitel:    Beispiel fuer Demonstration JavaFX-GUI
