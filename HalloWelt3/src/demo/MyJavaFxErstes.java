@@ -11,7 +11,7 @@
  *                    
  *  kurze Versionshistory & Datum: 
  *  V1.0(29.10.15) ... Klasse implementiert
- *  V2.0(xx.yy.15) ... z.B. Methode xyz um ... erweitert  
+ *  V2.0(xx.yy.15) ... z.B. Methode xyz um ... erweitert
  *********************************************************************************************/
 
 package demo;
